@@ -17,6 +17,7 @@
         "link": "https://www.topgames.com/play/Shortcut-Run",
         "appdesc": "test",
         "category": "action",
+        "isqrk": false,
         "isActive": true
       }
     ]
